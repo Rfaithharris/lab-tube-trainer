@@ -58,7 +58,7 @@ Your choice (1-3):
 **Ricki (Faith) Harris**  
 - Software Developer with a background in lab science  
 - 📧 rfharris24@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/rickiharris)  
+- 🔗 [LinkedIn](http://linkedin.com/in/ricki-harris-27a1b5129)
 - 💻 [GitHub](https://github.com/Rfaithharris)
 
 ---
